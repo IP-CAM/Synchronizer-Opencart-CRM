@@ -3,7 +3,7 @@
 class DataBaseQBN{
 
     public static function connect(){
-        $db = new mysqli('localhost','mascotasalfalfa','BG+j]rcUu4<t','ww2');
+        $db = new mysqli('localhost','root','','bd_opencart');
         $db->query("SET NAMES 'utf-8'");
         return $db;
     }
@@ -11,7 +11,7 @@ class DataBaseQBN{
 
 class DataBaseIF{
     public static function connect(){
-        $db = new mysqli('localhost','mascotasalfalfa','BG+j]rcUu4<t','crm');
+        $db = new mysqli('localhost','root','','bd_crm');
         $db->query("SET NAMES 'utf-8'");
         return $db;
     }
