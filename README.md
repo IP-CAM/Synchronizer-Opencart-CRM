@@ -1,9 +1,10 @@
-# sincronizador_opencart_crm : 
+# Synchronizer_OpenCart_CRM:
 
-Sincronizador de TiendasOnline Opencart ah CRM Stock Manager Advance (https://tecdiary.net/).
+Tiessonline Synchronizer OpenCart Ah CRM Stock Manager Advance (https://tecdiary.net/).
 
-- PRODUCTOS
-- CATEGORIAS
-- STOCK
-- OPCIONES
-- PEDIDOS
+- PRODUCTS
+- Categories
+- Stock
+- Options
+- Orders 
+- 
